@@ -1,0 +1,15 @@
+{
+    "name": "GitHub.azixMcAze.Unity-ExecutionOrder.Examples",
+    "references": [
+        "GitHub.azixMcAze.Unity-ExecutionOrder"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

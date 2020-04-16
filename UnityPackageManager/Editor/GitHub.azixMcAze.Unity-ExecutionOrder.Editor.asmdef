@@ -1,0 +1,17 @@
+{
+    "name": "GitHub.azixMcAze.Unity-ExecutionOrder.Editor",
+    "references": [
+        "GitHub.azixMcAze.Unity-ExecutionOrder"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
