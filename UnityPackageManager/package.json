@@ -1,0 +1,20 @@
+{
+  "name": "com.github.azixmcaze.unity-executionorder",
+  "displayName": "Unity Script Execution Order",
+  "version": "0.2.0",
+  "unity": "2017.2",
+  "readme": "README.md",
+  "description": "A collection of attributes to control the execution order of your scripts in Unity from your source code.\nazixMcAze/Unity-ExecutionOrder",
+  "keywords": [
+    "unity",
+    "execution-graph",
+    "execution-order"
+  ],
+  "author": {
+    "name": "azixMcAze",
+    "url": "https://github.com/azixMcAze/Unity-ExecutionOrder"
+  },
+  "category": "UnityEditor",
+  "type": "tool",
+  "hideInEditor": false
+}
